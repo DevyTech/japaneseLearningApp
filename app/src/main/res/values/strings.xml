@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Japanese Learning App</string>
+
+    <!--  Menu Strings  -->
+    <string name="itemMenu1">FlashCard</string>
+    <string name="itemMenu2">Daily Word</string>
+    <string name="itemMenu3">Quiz</string>
+
+    <string name="shuffle">Shuffle Word</string>
+    <string name="next">Next</string>
+
+    <string name="check1">Hiragana</string>
+    <string name="check2">Katakana</string>
+</resources>
