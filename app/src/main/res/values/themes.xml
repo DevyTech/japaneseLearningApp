@@ -35,7 +35,7 @@
         <!--    Custom Main Theme    -->
         <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
 
-        <item name="android:fontFamily">@font/nunito_sans</item>
+        <item name="android:fontFamily">@font/noto_sans_jp</item>
     </style>
 
     <!--  Bottom navigation custom theme  -->

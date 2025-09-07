@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Japanese Learning App</string>
+    <string name="app_name">Hirakata Go App</string>
+
+    <string name="title">Hirakata Go</string>
 
     <!--  Menu Strings  -->
     <string name="itemMenu1">FlashCard</string>
