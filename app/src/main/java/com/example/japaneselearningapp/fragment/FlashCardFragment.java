@@ -46,23 +46,13 @@ public class FlashCardFragment extends Fragment {
         checkHira.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(@NonNull CompoundButton compoundButton, boolean b) {
-                if (b){
-                    isHiragana = true;
-                    isKatakana = false;
-                }else {
-                    isHiragana = false;
-                }
+                isHiragana = b;
             }
         });
         checkKana.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(@NonNull CompoundButton compoundButton, boolean b) {
-                if (b){
-                    isKatakana = true;
-                    isHiragana = false;
-                }else {
-                    isKatakana = false;
-                }
+                isKatakana = b;
             }
         });
 
@@ -85,6 +75,7 @@ public class FlashCardFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 shuffle();
+                isHirakana = false;
             }
         });
         return view;

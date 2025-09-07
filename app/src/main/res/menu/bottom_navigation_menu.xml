@@ -8,7 +8,7 @@
     <item
         android:id="@+id/word_menu"
         android:enabled="true"
-        android:icon="@drawable/translate_24px"
+        android:icon="@drawable/outline_match_word_24"
         android:title="@string/itemMenu2" />
     <item
         android:id="@+id/quiz_menu"

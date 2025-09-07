@@ -1,12 +1,5 @@
 [
   {
-    "kanji": "日",
-    "hiragana": "ひ",
-    "romaji": "hi",
-    "meaning": "hari",
-    "example": "今日はいい日です。 (Kyou wa ii hi desu.) - Hari ini adalah hari yang baik."
-  },
-  {
     "kanji": "人",
     "hiragana": "ひと",
     "romaji": "hito",
@@ -14,689 +7,885 @@
     "example": "あの人は先生です。 (Ano hito wa sensei desu.) - Orang itu adalah guru."
   },
   {
-    "kanji": "水",
-    "hiragana": "みず",
-    "romaji": "mizu",
-    "meaning": "air",
-    "example": "水を飲みます。 (Mizu o nomimasu.) - Minum air."
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing",
+    "example": "私の犬はとても元気です。 (Watashi no inu wa totemo genki desu.) - Anjing saya sangat bersemangat."
   },
   {
     "kanji": "猫",
     "hiragana": "ねこ",
     "romaji": "neko",
     "meaning": "kucing",
-    "example": "猫が好きです。 (Neko ga suki desu.) - Saya suka kucing."
-  },
-  {
-    "kanji": "犬",
-    "hiragana": "いぬ",
-    "romaji": "inu",
-    "meaning": "anjing",
-    "example": "犬を飼っています。 (Inu o katte imasu.) - Saya memelihara anjing."
-  },
-  {
-    "kanji": "山",
-    "hiragana": "やま",
-    "romaji": "yama",
-    "meaning": "gunung",
-    "example": "山に登ります。 (Yama ni noborimasu.) - Mendaki gunung."
+    "example": "その猫はかわいいですね。 (Sono neko wa kawaii desu ne.) - Kucing itu imut ya."
   },
   {
     "kanji": "本",
     "hiragana": "ほん",
     "romaji": "hon",
     "meaning": "buku",
-    "example": "本を読みます。 (Hon o yomimasu.) - Membaca buku."
+    "example": "この本は面白いです。 (Kono hon wa omoshiroi desu.) - Buku ini menarik."
+  },
+  {
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "mobil",
+    "example": "新しい車を買いました。 (Atarashii kuruma o kaimashita.) - Saya membeli mobil baru."
+  },
+  {
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "example": "私の家は駅から近いです。 (Watashi no ie wa eki kara chikai desu.) - Rumah saya dekat dari stasiun."
   },
   {
     "kanji": "学校",
     "hiragana": "がっこう",
     "romaji": "gakkou",
     "meaning": "sekolah",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
+    "example": "彼は学校に行きました。 (Kare wa gakkou ni ikimashita.) - Dia pergi ke sekolah."
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan",
+    "example": "夕食を一緒に食べましょう。 (Yuushoku o issho ni tabemashou.) - Mari makan malam bersama."
+  },
+  {
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum",
+    "example": "水を飲んでください。 (Mizu o nonde kudasai.) - Tolong minum air."
+  },
+  {
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "berbicara",
+    "example": "日本語を話せますか。 (Nihongo o hanasemasu ka.) - Apakah bisa berbicara bahasa Jepang?"
+  },
+  {
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "meaning": "mendengarkan",
+    "example": "音楽を聞くのが好きです。 (Ongaku o kiku no ga suki desu.) - Saya suka mendengarkan musik."
+  },
+  {
+    "kanji": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "meaning": "melihat",
+    "example": "映画を見に行きましょう。 (Eiga o mi ni ikimashou.) - Mari pergi menonton film."
+  },
+  {
+    "kanji": "買う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "meaning": "membeli",
+    "example": "このシャツを買いました。 (Kono shatsu o kaimashita.) - Saya membeli kemeja ini."
+  },
+  {
+    "kanji": "行く",
+    "hiragana": "いく",
+    "romaji": "iku",
+    "meaning": "pergi",
+    "example": "スーパーへ買い物に行きます。 (Suupaa e kaimono ni ikimasu.) - Saya pergi ke supermarket untuk berbelanja."
+  },
+  {
+    "kanji": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "meaning": "datang",
+    "example": "友達が家に遊びに来ます。 (Tomodachi ga ie ni asobi ni kimasu.) - Teman saya datang ke rumah untuk bermain."
+  },
+  {
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "romaji": "okane",
+    "meaning": "uang",
+    "example": "お金が足りません。 (Okane ga tarimasen.) - Uangnya tidak cukup."
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "meaning": "waktu",
+    "example": "時間がありますか。 (Jikan ga arimasu ka.) - Apakah ada waktu?"
+  },
+  {
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini",
+    "example": "今日はとても暑いです。 (Kyou wa totemo atsui desu.) - Hari ini sangat panas."
+  },
+  {
+    "kanji": "明日",
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "meaning": "besok",
+    "example": "明日、何をしますか。 (Ashita, nani o shimasu ka.) - Besok, kamu melakukan apa?"
+  },
+  {
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "meaning": "kemarin",
+    "example": "昨日は雨でした。 (Kinou wa ame deshita.) - Kemarin hujan."
+  },
+  {
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "besar",
+    "example": "大きい声で話してください。 (Ookii koe de hanashite kudasai.) - Tolong berbicara dengan suara yang lantang."
+  },
+  {
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "kecil",
+    "example": "小さい箱を見つけました。 (Chiisai hako o mitsukemashita.) - Saya menemukan sebuah kotak kecil."
+  },
+  {
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "meaning": "tinggi, mahal",
+    "example": "このビルはとても高いです。 (Kono biru wa totemo takai desu.) - Gedung ini sangat tinggi."
+  },
+  {
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "meaning": "murah",
+    "example": "もっと安いものはありませんか。 (Motto yasui mono wa arimasen ka.) - Apakah tidak ada yang lebih murah?"
+  },
+  {
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "baru",
+    "example": "新しい携帯電話が欲しいです。 (Atarashii keitaidenwa ga hoshii desu.) - Saya ingin ponsel baru."
+  },
+  {
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "meaning": "lama, tua",
+    "example": "これは古い写真です。 (Kore wa furui shashin desu.) - Ini adalah foto lama."
+  },
+  {
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "meaning": "panas (cuaca)",
+    "example": "今日は暑いですね。 (Kyou wa atsui desu ne.) - Hari ini panas ya."
+  },
+  {
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "romaji": "samui",
+    "meaning": "dingin (cuaca)",
+    "example": "冬はとても寒いです。 (Fuyu wa totemo samui desu.) - Musim dingin sangat dingin."
+  },
+  {
+    "kanji": "良い",
+    "hiragana": "よい",
+    "romaji": "yoi",
+    "meaning": "bagus, baik",
+    "example": "良い天気ですね。 (Yoi tenki desu ne.) - Cuaca yang bagus ya."
+  },
+  {
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "meaning": "jelek, buruk",
+    "example": "それは悪い考えです。 (Sore wa warui kangae desu.) - Itu ide yang buruk."
+  },
+  {
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "menyenangkan",
+    "example": "パーティーはとても楽しかったです。 (Paatii wa totemo tanoshikatta desu.) - Pestanya sangat menyenangkan."
+  },
+  {
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "romaji": "muzukashii",
+    "meaning": "sulit",
+    "example": "この問題は難しいです。 (Kono mondai wa muzukashii desu.) - Soal ini sulit."
+  },
+  {
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "romaji": "kantan",
+    "meaning": "mudah",
+    "example": "日本語は簡単です。 (Nihongo wa kantan desu.) - Bahasa Jepang itu mudah."
+  },
+  {
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "hujan",
+    "example": "外は雨が降っています。 (Soto wa ame ga futte imasu.) - Di luar sedang hujan."
+  },
+  {
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "romaji": "tenki",
+    "meaning": "cuaca",
+    "example": "今日の天気予報は晴れです。 (Kyou no tenki yohou wa hare desu.) - Prakiraan cuaca hari ini cerah."
+  },
+  {
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "pekerjaan",
+    "example": "新しい仕事を探しています。 (Atarashii shigoto o sagashite imasu.) - Saya sedang mencari pekerjaan baru."
+  },
+  {
+    "kanji": "勉強",
+    "hiragana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "belajar",
+    "example": "毎日日本語を勉強します。 (Mainichi nihongo o benkyou shimasu.) - Saya belajar bahasa Jepang setiap hari."
+  },
+  {
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta listrik",
+    "example": "電車に乗って帰ります。 (Densha ni notte kaerimasu.) - Saya pulang naik kereta."
+  },
+  {
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun",
+    "example": "次の駅で降ります。 (Tsugi no eki de orimasu.) - Saya akan turun di stasiun berikutnya."
+  },
+  {
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "romaji": "kuukou",
+    "meaning": "bandara",
+    "example": "空港までどうやって行きますか。 (Kuukou made douyatte ikimasu ka.) - Bagaimana cara pergi ke bandara?"
+  },
+  {
+    "kanji": "海",
+    "hiragana": "うみ",
+    "romaji": "umi",
+    "meaning": "laut",
+    "example": "夏に海に行きたいです。 (Natsu ni umi ni ikitai desu.) - Saya ingin pergi ke laut di musim panas."
+  },
+  {
+    "kanji": "山",
+    "hiragana": "やま",
+    "romaji": "yama",
+    "meaning": "gunung",
+    "example": "富士山は日本で一番高い山です。 (Fujisan wa Nihon de ichiban takai yama desu.) - Gunung Fuji adalah gunung tertinggi di Jepang."
+  },
+  {
+    "kanji": "店",
+    "hiragana": "みせ",
+    "romaji": "mise",
+    "meaning": "toko",
+    "example": "あの店で買い物をしました。 (Ano mise de kaimono o shimashita.) - Saya berbelanja di toko itu."
+  },
+  {
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit",
+    "example": "頭が痛いので病院に行きます。 (Atama ga itai node byouin ni ikimasu.) - Karena sakit kepala, saya pergi ke rumah sakit."
+  },
+  {
+    "kanji": "町",
+    "hiragana": "まち",
+    "romaji": "machi",
+    "meaning": "kota, kota kecil",
+    "example": "この町はとても静かです。 (Kono machi wa totemo shizuka desu.) - Kota ini sangat tenang."
+  },
+  {
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "meaning": "negara",
+    "example": "あなたの国はどこですか。 (Anata no kuni wa doko desu ka.) - Negara Anda di mana?"
+  },
+  {
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "meaning": "nama",
+    "example": "お名前は何ですか。 (O namae wa nan desu ka.) - Siapa nama Anda?"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "meaning": "tangan",
+    "example": "手を洗ってください。 (Te o aratte kudasai.) - Tolong cuci tangan."
+  },
+  {
+    "kanji": "足",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "meaning": "kaki",
+    "example": "足が痛いです。 (Ashi ga itai desu.) - Kaki saya sakit."
+  },
+  {
+    "kanji": "顔",
+    "hiragana": "かお",
+    "romaji": "kao",
+    "meaning": "wajah",
+    "example": "彼女の顔はとてもきれいです。 (Kanojo no kao wa totemo kirei desu.) - Wajahnya sangat cantik."
+  },
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "meaning": "mata",
+    "example": "目が覚めました。 (Me ga samemashita.) - Saya terbangun."
+  },
+  {
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga",
+    "example": "耳がよく聞こえません。 (Mimi ga yoku kikoemasen.) - Telinga saya tidak bisa mendengar dengan baik."
+  },
+  {
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut",
+    "example": "口を開けてください。 (Kuchi o akete kudasai.) - Tolong buka mulutnya."
+  },
+  {
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "hidung",
+    "example": "鼻が詰まっています。 (Hana ga tsumatte imasu.) - Hidung saya tersumbat."
+  },
+  {
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "meaning": "kepala",
+    "example": "頭が痛いです。 (Atama ga itai desu.) - Kepala saya sakit."
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "meaning": "air",
+    "example": "水をください。 (Mizu o kudasai.) - Tolong berikan saya air."
+  },
+  {
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "teh",
+    "example": "温かいお茶を飲みました。 (Atatakai ocha o nomimashita.) - Saya minum teh hangat."
+  },
+  {
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "nasi",
+    "example": "ご飯を食べましたか。 (Gohan o tabemashita ka.) - Apakah Anda sudah makan nasi?"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "meaning": "ikan",
+    "example": "この魚は新鮮です。 (Kono sakana wa shinsen desu.) - Ikan ini segar."
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "meaning": "daging",
+    "example": "肉が好きです。 (Niku ga suki desu.) - Saya suka daging."
+  },
+  {
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "meaning": "telur",
+    "example": "卵を二つ買いました。 (Tamago o futatsu kaimashita.) - Saya membeli dua butir telur."
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "meaning": "sayuran",
+    "example": "もっと野菜を食べなさい。 (Motto yasai o tabenasai.) - Makanlah lebih banyak sayuran."
+  },
+  {
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "meaning": "buah",
+    "example": "果物が大好きです。 (Kudamono ga daisuki desu.) - Saya sangat suka buah."
+  },
+  {
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "susu sapi",
+    "example": "毎朝、牛乳を飲みます。 (Maiasa, gyuunyuu o nomimasu.) - Saya minum susu setiap pagi."
+  },
+  {
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "meaning": "roti",
+    "example": "パンとコーヒーで朝食です。 (Pan to koohii de choushoku desu.) - Sarapan dengan roti dan kopi."
+  },
+  {
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "nasi, makanan",
+    "example": "ご飯はとても美味しいです。 (Gohan wa totemo oishii desu.) - Nasinya sangat enak."
+  },
+  {
+    "kanji": "昼ご飯",
+    "hiragana": "ひるごはん",
+    "romaji": "hirugohan",
+    "meaning": "makan siang",
+    "example": "もう昼ご飯を食べましたか。 (Mou hirugohan o tabemashita ka.) - Apakah sudah makan siang?"
+  },
+  {
+    "kanji": "夜ご飯",
+    "hiragana": "よるごはん",
+    "romaji": "yorugohan",
+    "meaning": "makan malam",
+    "example": "今夜、夜ご飯は何ですか。 (Kon'ya, yorugohan wa nan desu ka.) - Makan malam apa nanti malam?"
+  },
+  {
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "romaji": "asagohan",
+    "meaning": "sarapan",
+    "example": "朝ご飯を食べて学校に行きます。 (Asagohan o tabete gakkou ni ikimasu.) - Saya makan sarapan lalu pergi ke sekolah."
+  },
+  {
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "kursi",
+    "example": "椅子に座ってください。 (Isu ni suwatte kudasai.) - Tolong duduk di kursi."
+  },
+  {
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) - Ada buku di atas meja."
+  },
+  {
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telepon",
+    "example": "電話をかけてもいいですか。 (Denwa o kakete mo ii desu ka.) - Boleh saya menelepon?"
+  },
+  {
+    "kanji": "携帯",
+    "hiragana": "けいたい",
+    "romaji": "keitai",
+    "meaning": "ponsel",
+    "example": "携帯を忘れました。 (Keitai o wasuremashita.) - Saya lupa ponsel saya."
+  },
+  {
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "foto",
+    "example": "この写真を撮ってもらえますか。 (Kono shashin o totte moraemasu ka.) - Bisakah Anda mengambilkan foto ini untuk saya?"
+  },
+  {
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "jam, arloji",
+    "example": "時計はどこですか。 (Tokei wa doko desu ka.) - Di mana jamnya?"
+  },
+  {
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "jendela",
+    "example": "窓を開けてください。 (Mado o akete kudasai.) - Tolong buka jendela."
+  },
+  {
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "meaning": "pintu",
+    "example": "ドアを閉めてください。 (Doa o shimete kudasai.) - Tolong tutup pintu."
+  },
+  {
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "kamar",
+    "example": "この部屋は広いです。 (Kono heya wa hiroi desu.) - Kamar ini luas."
+  },
+  {
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "example": "机の上にあるペンは私のものです。 (Tsukue no ue ni aru pen wa watashi no mono desu.) - Pulpen di atas meja adalah milik saya."
+  },
+  {
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "kertas",
+    "example": "紙とペンをください。 (Kami to pen o kudasai.) - Tolong berikan saya kertas dan pulpen."
+  },
+  {
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pensil",
+    "example": "鉛筆で書いてください。 (Enpitsu de kaite kudasai.) - Tolong tulis dengan pensil."
+  },
+  {
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "payung",
+    "example": "傘を忘れずに持っていってください。 (Kasa o wasurezu ni motte itte kudasai.) - Tolong jangan lupa bawa payung."
+  },
+  {
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "sepatu",
+    "example": "新しい靴を買いました。 (Atarashii kutsu o kaimashita.) - Saya membeli sepatu baru."
+  },
+  {
+    "kanji": "服",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "pakaian",
+    "example": "この服は好きです。 (Kono fuku wa suki desu.) - Saya suka pakaian ini."
+  },
+  {
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "kemeja",
+    "example": "白いシャツを着ています。 (Shiroi shatsu o kite imasu.) - Saya memakai kemeja putih."
+  },
+  {
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "celana",
+    "example": "このズボンは少し大きいです。 (Kono zubon wa sukoshi ookii desu.) - Celana ini sedikit kebesaran."
+  },
+  {
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "perpustakaan",
+    "example": "図書館で勉強します。 (Toshokan de benkyou shimasu.) - Saya belajar di perpustakaan."
+  },
+  {
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "kantor pos",
+    "example": "郵便局はどこにありますか。 (Yuubinkyoku wa doko ni arimasu ka.) - Di mana kantor posnya?"
+  },
+  {
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "taman",
+    "example": "公園で遊びましょう。 (Kouen de asobimashou.) - Mari bermain di taman."
+  },
+  {
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit",
+    "example": "風邪をひいたので病院に行きます。 (Kaze o hiita node byouin ni ikimasu.) - Karena terkena flu, saya pergi ke rumah sakit."
+  },
+  {
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "example": "銀行でお金をおろします。 (Ginkou de okane o oroshimasu.) - Saya menarik uang di bank."
+  },
+  {
+    "kanji": "スーパー",
+    "hiragana": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket",
+    "example": "スーパーで買い物をしました。 (Suupaa de kaimono o shimashita.) - Saya berbelanja di supermarket."
+  },
+  {
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "romaji": "konbini",
+    "meaning": "minimarket",
+    "example": "コンビニでジュースを買います。 (Konbini de juusu o kaimasu.) - Saya membeli jus di minimarket."
+  },
+  {
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restoran",
+    "example": "このレストランの料理は美味しいです。 (Kono resutoran no ryouri wa oishii desu.) - Masakan di restoran ini enak."
+  },
+  {
+    "kanji": "ホテル",
+    "hiragana": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel",
+    "example": "来週、ホテルに泊まります。 (Raishuu, hoteru ni tomarimasu.) - Minggu depan, saya akan menginap di hotel."
+  },
+  {
+    "kanji": "カフェ",
+    "hiragana": "カフェ",
+    "romaji": "kafe",
+    "meaning": "kafe",
+    "example": "カフェで友達と会います。 (Kafe de tomodachi to aimasu.) - Saya bertemu dengan teman di kafe."
+  },
+  {
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "meaning": "film",
+    "example": "映画を見るのが好きです。 (Eiga o miru no ga suki desu.) - Saya suka menonton film."
+  },
+  {
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "musik",
+    "example": "この音楽は素晴らしいです。 (Kono ongaku wa subarashii desu.) - Musik ini luar biasa."
+  },
+  {
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "koran",
+    "example": "毎朝、新聞を読みます。 (Maiasa, shinbun o yomimasu.) - Saya membaca koran setiap pagi."
+  },
+  {
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "majalah",
+    "example": "この雑誌は面白いです。 (Kono zasshi wa omoshiroi desu.) - Majalah ini menarik."
+  },
+  {
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "surat",
+    "example": "彼女に手紙を書きました。 (Kanojo ni tegami o kakimashita.) - Saya menulis surat untuknya."
+  },
+  {
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "keluarga",
+    "example": "私の家族は五人です。 (Watashi no kazoku wa gonin desu.) - Keluarga saya ada lima orang."
+  },
+  {
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman",
+    "example": "友達と一緒に遊びます。 (Tomodachi to issho ni asobimasu.) - Saya bermain bersama teman."
   },
   {
     "kanji": "先生",
     "hiragana": "せんせい",
     "romaji": "sensei",
     "meaning": "guru",
-    "example": "先生は優しいです。 (Sensei wa yasashii desu.) - Guru itu baik."
+    "example": "先生に質問があります。 (Sensei ni shitsumon ga arimasu.) - Saya punya pertanyaan untuk guru."
   },
   {
     "kanji": "学生",
     "hiragana": "がくせい",
     "romaji": "gakusei",
-    "meaning": "murid",
-    "example": "私は学生です。 (Watashi wa gakusei desu.) - Saya adalah murid."
+    "meaning": "siswa",
+    "example": "彼は大学生です。 (Kare wa daigakusei desu.) - Dia adalah mahasiswa."
   },
   {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "dokter",
+    "example": "彼は有名な医者です。 (Kare wa yuumei na isha desu.) - Dia adalah dokter yang terkenal."
   },
   {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "romaji": "keisatsu",
+    "meaning": "polisi",
+    "example": "警察に電話してください。 (Keisatsu ni denwa shite kudasai.) - Tolong telepon polisi."
   },
   {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "romaji": "kaishain",
+    "meaning": "karyawan",
+    "example": "私は会社の社員です。 (Watashi wa kaisha no shain desu.) - Saya adalah karyawan perusahaan."
   },
   {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "bahasa Jepang",
+    "example": "日本語を話せますか。 (Nihongo o hanasemasu ka.) - Apakah bisa berbicara bahasa Jepang?"
   },
   {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "meaning": "bahasa Inggris",
+    "example": "英語を勉強しています。 (Eigo o benkyou shite imasu.) - Saya sedang belajar bahasa Inggris."
   },
   {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "luar negeri",
+    "example": "外国で働きたいです。 (Gaikoku de hatarakitai desu.) - Saya ingin bekerja di luar negeri."
   },
   {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi",
+    "example": "朝早く起きます。 (Asa hayaku okimasu.) - Saya bangun pagi-pagi."
   },
   {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "meaning": "siang",
+    "example": "昼ご飯を食べましょう。 (Hirugohan o tabemashou.) - Mari makan siang."
   },
   {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "malam",
+    "example": "昨日の夜はよく眠れませんでした。 (Kinou no yoru wa yoku nemuremasen deshita.) - Tadi malam saya tidak bisa tidur nyenyak."
   },
   {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
+    "kanji": "朝食",
+    "hiragana": "ちょうしょく",
+    "romaji": "choushoku",
+    "meaning": "sarapan",
+    "example": "ホテルの朝食は美味しいです。 (Hoteru no choushoku wa oishii desu.) - Sarapan di hotel enak."
   },
   {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
+    "kanji": "昼食",
+    "hiragana": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "meaning": "makan siang",
+    "example": "昼食はレストランで食べます。 (Chuushoku wa resutoran de tabemasu.) - Saya makan siang di restoran."
   },
   {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
+    "kanji": "夕食",
+    "hiragana": "ゆうしょく",
+    "romaji": "yuushoku",
+    "meaning": "makan malam",
+    "example": "夕食は家族と一緒に食べます。 (Yuushoku wa kazoku to issho ni tabemasu.) - Saya makan malam bersama keluarga."
   },
   {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
+    "kanji": "週末",
+    "hiragana": "しゅうまつ",
+    "romaji": "shuumatsu",
+    "meaning": "akhir pekan",
+    "example": "週末に何をしますか。 (Shuumatsu ni nani o shimasu ka.) - Apa yang akan kamu lakukan di akhir pekan?"
   },
   {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "libur, istirahat",
+    "example": "明日は休みです。 (Ashita wa yasumi desu.) - Besok libur."
   },
   {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "romaji": "tanjoubi",
+    "meaning": "ulang tahun",
+    "example": "誕生日おめでとう！ (Tanjoubi omedetou!) - Selamat ulang tahun!"
   },
   {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "romaji": "omiyage",
+    "meaning": "oleh-oleh",
+    "example": "お土産を買いました。 (Omiyage o kaimashita.) - Saya membeli oleh-oleh."
   },
   {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "perjalanan",
+    "example": "来月、日本へ旅行します。 (Raigetsu, Nihon e ryokou shimasu.) - Bulan depan, saya akan bepergian ke Jepang."
   },
   {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "musim panas",
+    "example": "夏は暑いです。 (Natsu wa atsui desu.) - Musim panas itu panas."
   },
   {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "musim dingin",
+    "example": "冬は寒いです。 (Fuyu wa samui desu.) - Musim dingin itu dingin."
   },
   {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "musim semi",
+    "example": "春には桜が咲きます。 (Haru ni wa sakura ga sakimasu.) - Bunga sakura mekar di musim semi."
   },
   {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
+    "kanji": "秋",
+    "hiragana": "あき",
+    "romaji": "aki",
+    "meaning": "musim gugur",
+    "example": "秋は過ごしやすいです。 (Aki wa sugoshisui desu.) - Musim gugur nyaman untuk dilewati."
   },
   {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
-  },
-  {
-    "kanji": "友達",
-    "hiragana": "ともだち",
-    "romaji": "tomodachi",
-    "meaning": "teman",
-    "example": "友達と遊びます。 (Tomodachi to asobimasu.) - Bermain dengan teman."
-  },
-  {
-    "kanji": "車",
-    "hiragana": "くるま",
-    "romaji": "kuruma",
-    "meaning": "mobil",
-    "example": "車を運転します。 (Kuruma o untenshimasu.) - Mengemudi mobil."
-  },
-  {
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "romaji": "densha",
-    "meaning": "kereta",
-    "example": "電車に乗ります。 (Densha ni norimasu.) - Naik kereta."
-  },
-  {
-    "kanji": "駅",
-    "hiragana": "えき",
-    "romaji": "eki",
-    "meaning": "stasiun",
-    "example": "駅で待ちます。 (Eki de machimasu.) - Menunggu di stasiun."
-  },
-  {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "romaji": "taberu",
-    "meaning": "makan",
-    "example": "ご飯を食べます。 (Gohan o tabemasu.) - Makan nasi."
-  },
-  {
-    "kanji": "飲む",
-    "hiragana": "のむ",
-    "romaji": "nomu",
-    "meaning": "minum",
-    "example": "お茶を飲みます。 (Ocha o nomimasu.) - Minum teh."
-  },
-  {
-    "kanji": "行く",
-    "hiragana": "いく",
-    "romaji": "iku",
-    "meaning": "pergi",
-    "example": "学校へ行きます。 (Gakkou e ikimasu.) - Pergi ke sekolah."
-  },
-  {
-    "kanji": "来る",
-    "hiragana": "くる",
-    "romaji": "kuru",
-    "meaning": "datang",
-    "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
-  },
-  {
-    "kanji": "見る",
-    "hiragana": "みる",
-    "romaji": "miru",
-    "meaning": "melihat",
-    "example": "映画を見ます。 (Eiga o mimasu.) - Menonton film."
-  },
-  {
-    "kanji": "話す",
-    "hiragana": "はなす",
-    "romaji": "hanasu",
-    "meaning": "berbicara",
-    "example": "日本語で話します。 (Nihongo de hanashimasu.) - Berbicara dalam bahasa Jepang."
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "romaji": "kisetsu",
+    "meaning": "musim",
+    "example": "どの季節が好きですか。 (Dono kisetsu ga suki desu ka.) - Musim apa yang kamu suka?"
   }
 ]
