@@ -15,6 +15,10 @@ public interface CardDao {
     LiveData<List<Card>> getAllCards();
     @Query("SELECT * FROM hirakana WHERE type = :type ORDER BY RANDOM() LIMIT 1")
     LiveData<Card> getRandomCardByType(String type);
+    @Query("SELECT * FROM hirakana ORDER BY RANDOM() LIMIT 1")
+    LiveData<Card> getRandomQuestion();
+    @Query("SELECT * FROM hirakana WHERE id != :correctId ORDER BY RANDOM() LIMIT :limit")
+    LiveData<List<Card>> getRandomOptions(int correctId, int limit);
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     void insertCard(Card card);
     @Delete

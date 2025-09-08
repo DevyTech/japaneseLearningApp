@@ -71,4 +71,11 @@ public class CardRepository {
             }
         });
     }
+
+    public LiveData<Card> getRandomQuestion(){
+        return dao.getRandomQuestion();
+    }
+    public LiveData<List<Card>> getRandomOptions(int correctId, int limit){
+        return dao.getRandomOptions(correctId, limit);
+    }
 }
