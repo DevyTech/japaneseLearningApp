@@ -44,65 +44,51 @@ public class QuizFragment extends Fragment {
 
         quizViewModel = new ViewModelProvider(this).get(QuizViewModel.class);
 
-        loadNextQuestion();
+//observer hanya satu LiveData gabungan
+        quizViewModel.getQuizLive().observe(getViewLifecycleOwner(), quiz -> {
+            if (quiz==null) return;
+            currentQuiz = quiz;
 
-        return view;
-    }
-    private void loadNextQuestion(){
-        quizViewModel.getQuestion().observe(getViewLifecycleOwner(),question -> {
-            if (question!=null){
-                textQuestion.setText("Huruf apakah ini : " + question.character);
-                textProgress.setText("Soal : " + quizViewModel.getCurentQuestion()+"/"+quizViewModel.getTotalQuestion());
-                textScore.setText("Skor : " + quizViewModel.getScore());
-
-                quizViewModel.getOptions(question.id).observe(getViewLifecycleOwner(), options ->{
-                    if (options!=null){
-                        List<Card> alloptions = new ArrayList<>(options);
-                        alloptions.add(question);
-                        while (alloptions.size() < 4){
-                            alloptions.add(question);
-                        }
-                        Collections.shuffle(alloptions);
-                        btnOption1.setText(alloptions.get(0).romaji);
-                        btnOption2.setText(alloptions.get(1).romaji);
-                        btnOption3.setText(alloptions.get(2).romaji);
-                        btnOption4.setText(alloptions.get(3).romaji);
-
-                        setAnswerListener(btnOption1, alloptions.get(0),question);
-                        setAnswerListener(btnOption2, alloptions.get(1),question);
-                        setAnswerListener(btnOption3, alloptions.get(2),question);
-                        setAnswerListener(btnOption4, alloptions.get(3),question);
-                    }
-                });
-            }
+            textQuestion.setText(quiz.getQuestion());
+            textProgress.setText(String.format("%d/%d", quizViewModel.getCurrentQuestion(), quizViewModel.getTotalQuestions()));
+            textScore.setText(String.format("Score: %d", quizViewModel.getScore()));
+            btnOption1.setText(quiz.getOptions().get(0));
+            btnOption2.setText(quiz.getOptions().get(1));
+            btnOption3.setText(quiz.getOptions().get(2));
+            btnOption4.setText(quiz.getOptions().get(3));
         });
-    }
 
-    private void setAnswerListener(Button button, Card option, Card correct) {
-        button.setOnClickListener(v -> {
-            if (option.id == correct.id){
-                Toast.makeText(getContext(), "Jawaban Benar", Toast.LENGTH_SHORT).show();
-                quizViewModel.increseScore();
+//        pasang listener sekali
+        View.OnClickListener answerListener = v -> {
+            if (currentQuiz == null) return;
+            String selected = ((Button) v).getText().toString();
+            if (selected.equals(currentQuiz.getCorrectAnswer())){
+                quizViewModel.increaseScore();
+//                Toast.makeText(getContext(), "Correct!", Toast.LENGTH_SHORT).show();
             }else {
-                Toast.makeText(getContext(), "Salah, Jawabannya adalah : "+correct.romaji, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getContext(), "Wrong!, Answer Is : "+currentQuiz.getCorrectAnswer(), Toast.LENGTH_SHORT).show();
             }
-            quizViewModel.nextQuestion();
-            if (quizViewModel.isQuizFinished()){
+            if (quizViewModel.isFinished()){
                 showResult();
             }else {
-                loadNextQuestion();
+                quizViewModel.nextQuestion();
             }
-        });
+        };
+        btnOption1.setOnClickListener(answerListener);
+        btnOption2.setOnClickListener(answerListener);
+        btnOption3.setOnClickListener(answerListener);
+        btnOption4.setOnClickListener(answerListener);
+        return view;
     }
 
     private void showResult(){
         new AlertDialog.Builder(getContext())
-                .setTitle("Quiz Selesai") .setMessage("Skor Anda : "+quizViewModel.getScore()+"/"+quizViewModel.getTotalQuestion())
-                .setPositiveButton("Main Lagi", (dialogInterface, i) -> {
-                    quizViewModel = new ViewModelProvider(this).get(QuizViewModel.class);
-                    quizViewModel.reset();
-                    loadNextQuestion();
+                .setTitle("Quiz Selesai")
+                .setMessage("Skor Anda : " + quizViewModel.getScore() + "/" + quizViewModel.getTotalQuestions())
+                .setPositiveButton("Main Lagi", (d, w) -> {
+                    quizViewModel.resetQuiz();
                 })
-                .setNegativeButton("Tutup",null) .show();
+                .setNegativeButton("Tutup", null)
+                .show();
     }
 }
